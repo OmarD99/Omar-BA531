@@ -1,0 +1,16 @@
+{
+  "name": "node-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^13.0.2",
+    "promise": "^8.1.0"
+  }
+}
